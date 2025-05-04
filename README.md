@@ -96,3 +96,134 @@ Improve user experience through readable text and visually distinct sections
 
 Streamline the development process by reusing standard styles and components
 
+# 3. Project Roles and Responsibilities
+Clearly defined roles are critical to the success of any software development project. Below is an overview of each role in this project and their key responsibilities:
+
+ <!-- Project Manager (PM) -->
+Overview:
+The Project Manager is responsible for overall project coordination and delivery.
+
+Key Responsibilities:
+
+Oversee the project’s progress and ensure deadlines are met.
+
+Manage resources, budget, and communication between team members.
+
+Coordinate timelines, goals, and priorities.
+
+Identify risks and ensure mitigation strategies are in place.
+
+Act as the main liaison between stakeholders and the development team.
+
+ <!-- Frontend Developers -->
+Overview:
+Focus on building the client-side of the application to ensure an engaging and responsive user experience.
+
+Key Responsibilities:
+
+Implement UI/UX designs using React, TypeScript, and TailwindCSS.
+
+Develop reusable components and responsive layouts.
+
+Integrate frontend with REST APIs.
+
+Optimize performance and cross-browser compatibility.
+
+Work closely with designers to bring mockups to life.
+
+ <!-- Backend Developers -->
+Overview:
+Build and maintain the server-side logic and data management systems.
+
+Key Responsibilities:
+
+Develop and maintain APIs using Python and Django.
+
+Design and manage relational databases (e.g., MySQL).
+
+Implement authentication, authorization, and business logic.
+
+Ensure backend scalability, security, and performance.
+
+Collaborate with frontend developers to provide robust endpoints.
+
+<!-- Designers -->
+Overview:
+Responsible for creating a visually cohesive and user-friendly interface.
+
+Key Responsibilities:
+
+Design wireframes, mockups, and interactive prototypes using Figma.
+
+Define typography, color schemes, and layout standards.
+
+Ensure consistency in UI components and design tokens.
+
+Conduct usability testing and refine designs based on feedback.
+
+Collaborate with frontend developers to implement visuals accurately.
+
+<!-- QA/Testers -->
+Overview:
+Ensure software quality through rigorous testing and validation.
+
+Key Responsibilities:
+
+Create and execute test cases and test plans.
+
+Perform manual and automated testing (using Jest or similar).
+
+Report bugs and track issues until resolved.
+
+Verify fixes and perform regression testing.
+
+Ensure the final product meets usability and performance standards.
+
+<!-- DevOps Engineers -->
+Overview:
+Focus on deployment, automation, and infrastructure management.
+
+Key Responsibilities:
+
+Set up and manage CI/CD pipelines.
+
+Handle cloud infrastructure and deployment strategies.
+
+Monitor system performance and uptime.
+
+Ensure secure, scalable, and reliable deployment environments.
+
+Automate testing and release processes for efficiency.
+
+<!--  Product Owner (PO) -->
+Overview:
+Defines the product vision and aligns it with user and business needs.
+
+Key Responsibilities:
+
+Gather requirements and prioritize features.
+
+Maintain the product backlog and define user stories.
+
+Collaborate with stakeholders to define success metrics.
+
+Make decisions on feature implementation scope.
+
+Accept completed work and ensure alignment with goals.
+
+ <!-- Scrum Master -->
+
+Overview:
+Facilitates Agile practices and keeps the team productive.
+
+Key Responsibilities:
+
+Organize and facilitate Scrum ceremonies (stand-ups, sprint planning, retrospectives).
+
+Remove blockers and help the team stay focused.
+
+Promote a collaborative and transparent work environment.
+
+Guide the team in continuous improvement.
+
+Ensure that Agile principles are followed.
