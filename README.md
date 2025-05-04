@@ -227,3 +227,48 @@ Promote a collaborative and transparent work environment.
 Guide the team in continuous improvement.
 
 Ensure that Agile principles are followed.
+
+# UI Component Patterns
+Reusable and well-structured UI components are essential to building a scalable and consistent interface. Below are the core components planned for the AirBnB Clone project:
+
+<!-- Navbar -->
+Features:
+
+Logo
+
+Search bar
+
+User navigation (e.g., Sign In, Bookings)
+
+Responsive menu (hamburger on mobile)
+
+ <!-- Property Card -->
+Features:
+
+Property image
+
+Basic details: price, location, and rating
+
+Favorite (heart) button
+
+Responsive layout for grid display
+
+<!-- Footer -->
+Features:
+
+Site links (e.g., About, Terms, Privacy)
+
+Company information
+
+Social media links
+
+Copyright information
+
+<!-- Component Design Principles: -->
+
+Reusability: Components will be modular and used across different pages.
+
+Consistency: Uniform styling and behavior across the app.
+
+Responsiveness: TailwindCSS will ensure mobile-first design.
+
