@@ -51,3 +51,48 @@ User Authentication: Sign-up, login, and profile management.
 <!-- 💡 Importance of a User-Friendly Design -->
 
 A user-friendly interface is crucial for a booking platform. It reduces friction in the user journey, enhances trust, and boosts conversion rates. Clear navigation, fast response times, and consistent visual elements help users feel confident when browsing and booking properties. A good design also improves accessibility, making the platform inclusive and easier to use for all users.
+
+ <!-- Color Styles -->
+Primary Color: #FF5A5F
+
+Secondary Color: #008489
+
+Background Color: #FFFFFF
+
+Primary Text Color: #222222
+
+Secondary Text Color: #717171
+
+ <!-- Typography -->
+Font Family: Circular
+
+Headings:
+
+Font Weight: Bold (700)
+
+Font Size: 24px – 32px
+
+Body Text:
+
+Font Weight: Medium (500)
+
+Font Size: 16px
+
+Secondary Text:
+
+Font Weight: Book (400)
+
+Font Size: 14px
+
+ <!-- Why Identifying Design Properties Matters -->
+
+Understanding the color palette and typography used in a Figma mockup ensures design consistency across your application. It helps:
+
+Align developers and designers on visual expectations
+
+Maintain brand identity and professional aesthetics
+
+Improve user experience through readable text and visually distinct sections
+
+Streamline the development process by reusing standard styles and components
+
